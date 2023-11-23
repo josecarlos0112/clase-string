@@ -5,7 +5,7 @@
 #include <string>
 
 int main() {
-    std::string sentence = "El lenguaje C++ es poderoso.";
+    std::string sentence = "El lenguaje C++ es el mejor para iniciar.";
     std::string sub_str = "C++";
 
     size_t pos = sentence.find(sub_str);
